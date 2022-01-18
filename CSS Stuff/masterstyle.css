@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Arvo', serif;
+  color: linen;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: linen;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-width: 8px;
+  border-top-style: dotted;
+  border-top-color: #FF6363;
+  width: 5%;
+}
+
+p {
+  font-size: 1.45rem;
+  color: linen;
+}
+
+a {
+  margin: 10px 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #FF6363;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #BAFFB4;
+}
+
+.welcome {
+  font-size: 4rem;
+}
+
+.presentation {
+  color: linen;
+}
+
+.TopContainer {
+  padding: 145px;
+  background-color: #FF6363;
+  position: relative;
+}
+
+.MiddleContainer {
+  background-color: #FFAB76;
+  padding-bottom: 20px;
+}
+
+.BottomContainer {
+  background-color: #FFFDA2;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.pinstripes {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 300px;
+  width: 1349px;
+}
+
+.propic {
+  margin-top: 30px;
+  width: 150px;
+  height: 150px;
+}
+
+.trademark {
+  color: #FF6363;
+}
+
+.init-desc{
+  width: 50%;
+  margin: 30px auto 30px auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.gear{
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.code-illustration{
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-left: 20px;
+}
+
+.arduino{
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.people{
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-left: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: 'Oswald';
+  color: #ffab76;
+  font-size: 19px;
+  background: #ff6363;
+  padding: 7px 7px 7px 7px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fffda2;
+  text-decoration: none;
+}
